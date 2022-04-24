@@ -1,0 +1,28 @@
+.AboutUs-header {
+    font-size: calc(10px + 2vmin);
+    color: rgb(5, 5, 5);
+  }
+  
+.AboutUs-main {
+    min-height: 95vh;
+    background-color:#ffffffdc;
+    height: 100%;
+    width: 100%;
+    margin: 0 !important;
+  }
+.AboutUs-main-col{
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.AboutUsTeam{
+    width: 100%;
+    margin-bottom: 2rem;
+}
+.AboutUs-footer {
+    margin-top: 5rem;
+    min-height: 5vh; 
+  }  

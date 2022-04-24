@@ -1,0 +1,41 @@
+.aboutUs{
+    height: 100%;
+    width: 100%;
+}
+
+.aboutUs-main{
+    height: 100%;
+    width: 100%;
+    min-height: 95vh;
+    margin-left: 0!important;
+
+}
+.aboutUs-title-top{
+    display: flex;
+    justify-content: center;
+}
+.aboutUs-top-info{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    background-color: black;
+    color: white;
+}
+
+.aboutUs-main-img{
+    height: 80vh;
+    width: 90%;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    border: 8px solid black;
+}
+
+.aboutUs-main-col{
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+

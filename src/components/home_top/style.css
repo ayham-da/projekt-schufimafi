@@ -1,0 +1,30 @@
+  .home-top{
+    height: 100%;
+      width: 100%;
+  }
+
+  .home-top-main{
+    height: 100%;
+    width: 100%;
+    margin-top: 5rem;
+
+  }
+
+  .home-top-main-img{
+      height: 40vh;
+      max-width: 100%;
+      margin: auto;    
+      display: block;
+      border: 2px solid white;
+  }
+
+  .home-top-main-col{
+      display: flex;
+      max-width: 100%;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
+  }
+  .home-top-footer{
+     width: 100%;
+  }

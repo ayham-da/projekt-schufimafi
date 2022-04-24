@@ -1,0 +1,18 @@
+.jornalist-header {
+    background-color:#090909;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+.jornalist-main {
+    min-height: 95vh; 
+  }
+
+.jornalist-footer {
+    min-height: 5vh; 
+  }
+
+.jornalist-main-List {
+    max-width: 100%;
+    margin: auto;
+}

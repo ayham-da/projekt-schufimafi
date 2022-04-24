@@ -1,0 +1,18 @@
+.jornalist-item{
+  background-color: white;
+  color: black;
+  padding: 3rem;
+  margin: 3rem;
+}
+.jornalist-title{
+  color: black;
+  font-size: 1.7rem;
+}
+.externalLink{
+  margin: 2%;
+  color: black;
+}
+
+.externalLink:hover{
+  color: #c1558b;
+}

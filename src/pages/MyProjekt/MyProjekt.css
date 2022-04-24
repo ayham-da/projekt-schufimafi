@@ -1,0 +1,18 @@
+.projekts-header {
+    background-color:#090909;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+.projekts-main {
+    min-height: 95vh; 
+  }
+
+.projekts-footer {
+    min-height: 5vh; 
+  }  
+
+projekts-main-List {
+    max-width: 100%;
+    margin: auto;
+}

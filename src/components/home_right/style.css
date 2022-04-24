@@ -1,0 +1,25 @@
+  .home-right{
+    height: 100%;
+  }
+
+  .home-right-main{
+      display: flex;
+      align-items: center;
+  }
+
+  .home-right-main-col{
+      margin: auto;
+      display: block;
+  }
+
+  .home-right-main-img{
+      height: 40vh;
+      max-width: 100%;
+      margin: auto;
+      display: block;
+      border: 2px solid white;
+  }
+
+  .home-right-footer{
+     width: 100%;
+  }
