@@ -3,7 +3,6 @@ import { Helmet } from "react-helmet";
 import { Typography } from '@material-ui/core';
 import {Card, Container, Row} from "react-bootstrap";
 import ContactStyles from "./KontaktStyle";
-import Flip from 'react-reveal/Flip';
 import { CardContent, CardActionArea, CardMedia } from '@material-ui/core';
 import firstImg from '../../assets/img/schufimafi.png';
 import { FaRoute } from "react-icons/fa";
@@ -30,9 +29,7 @@ const Contact = () => {
                     <Row className={classes.rowStyle}>
                         <Card className={classes.root}>
                             <CardContent>
-                                <Flip left>
                                     <CardMedia className={classes.media} image={firstImg}/>
-                                </Flip>
                                 <Typography
                                     className={classes.headMap}>
                                     <RoomIcon />
